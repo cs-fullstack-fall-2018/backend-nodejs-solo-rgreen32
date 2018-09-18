@@ -1,6 +1,6 @@
 # backend-nodejs-solo
 
-For this assignment you will create a full node.js backend applicationfrom scratch. 
+For this assignment you will create a full node.js backend application from scratch. 
 
 1. Clone this project and then create your new node.js project in the created directory.
 
